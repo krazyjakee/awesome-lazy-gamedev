@@ -148,19 +148,19 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Concept Art Generators
 
-- [NightCafe][345] - A service to generate concept art.
+- [NightCafe][435] - A service to generate concept art.
 
 ### Texture Generators
 
-- [Barium][346] - A service to generate textures include normal and height maps.
+- [Barium][435] - A service to generate textures include normal and height maps.
 
 ### Normal/Heightmap Generators
 
-- [AwesomeBump][347] - A tool to generate normal and height maps from texture images.
+- [AwesomeBump][437] - A tool to generate normal and height maps from texture images.
 
 ### Text Generators
 
-- [ChatGPT][348] - A service to generate text for storylines, speech or other text.
+- [ChatGPT][438] - A service to generate text for storylines, speech or other text.
 
 [1]: https://www.fsf.org/about/what-is-free-software
 [2]: http://freedomdefined.org/Definition
@@ -582,3 +582,4 @@ This category contains any 'grab-bags' of different kinds of art assets.
 [432]: https://www.clip.audio/
 [433]: https://aiva.ai/
 [434]: https://quaternius.com/
+[435]: https://barium.ai/
